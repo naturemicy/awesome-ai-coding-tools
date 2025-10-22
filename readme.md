@@ -263,6 +263,7 @@ Ideal for developers, teams, researchers, and tech enthusiasts looking to levera
 - **[Launchable](https://launchableinc.com/)**: AI-driven test optimization platform that predicts which tests to run based on code changes.
 - **[Parasoft](https://www.parasoft.com/)**: Comprehensive AI-enhanced software testing suite covering static analysis, unit testing, and API testing.
 - **[Codeflash](https://www.codeflash.ai/)**: Ship Blazing-Fast Python Code — Every Time. `#freemium`
+- **[Bugster](https://www.bugster.dev/)**: AI QA engineer that creates and updates E2E tests, simulating real user behavior.
 
 ---
 
