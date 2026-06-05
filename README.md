@@ -251,6 +251,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Pieces.app](https://pieces.app/)** – AI-powered code snippet management, search, and sharing.
 - **[16x Prompt](https://prompt.16x.engineer/)** – AI tool for enhanced code context and prompt-based navigation.
 - **[codebase-recon](https://github.com/yujiachen-y/codebase-recon-skill)** – AI coding agent skill that analyzes git history to reveal hotspots, bug magnets, bus factor risks, and development momentum before reading any code.
+- **[sensegrep](https://github.com/Stahldavid/sensegrep)** – Semantic + structural code search that helps AI agents read the right code, not more. Combines semantic search, exact matching, and AST-aware (tree-sitter) retrieval; ships an MCP server and a CLI.
 
 ---
 
