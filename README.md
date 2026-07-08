@@ -291,7 +291,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Context7](https://context7.com/)** – MCP server providing up-to-date library documentation to LLMs and AI editors.
 - **[Task Master](https://github.com/eyaltoledano/claude-task-master)** – AI-driven task management for development with Claude, designed for Cursor.
 - **[SpecStory](https://specstory.com/)** – Cursor/VS Code/Claude Code extension for summarizing and sharing AI chat context.
-- **[Data Olympus](https://github.com/knaisoma/data-olympus)** - Governed project knowledge for AI coding agents via MCP. Agents can propose learnings, humans promote accepted guidance, and retrieval filters out expired or superseded rules before they enter future coding sessions.
+- **[Data Olympus](https://github.com/knaisoma/data-olympus)** – Governed project knowledge for AI coding agents via MCP. Agents can propose learnings, humans promote accepted guidance, and retrieval filters out expired or superseded rules before they enter future coding sessions.
 - **[Git AI](https://github.com/acunniffe/git-ai)** – Git extension that tracks AI-generated code and the prompts behind each line.
 - **[Perplexity Pro](https://perplexity.ai/pro)** – AI search engine with real-time web access for coding solutions.
 - **[CodeCosts](https://codecosts.pages.dev/)** – Compare pricing across AI coding tools with an interactive calculator.
