@@ -1,6 +1,4 @@
 # Awesome AI Coding Tools
-- **[AI Test Case Generator](https://aitestcasegenerator-six.vercel.app/)** – AI-powered test case generator that turns plain-language requirements into structured QA test cases for web and software testing workflows.
- Awesome AI Coding Tool
 
 [![Awesome](https://cdn.jsdelivr.net/gh/sindresorhus/awesome@d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -246,6 +244,7 @@ A curated list of AI-powered coding tools: editors, agents, code completion, rev
 - **[Wopee.io](https://wopee.io)** – Autonomous visual regression testing with Playwright/Cypress integration.
 
 ---
+- **[AI Test Case Generator](https://aitestcasegenerator-six.vercel.app/)** – AI-powered test case generator that turns plain-language requirements into structured QA test cases for web and software testing workflows.
 
 ## Code Search and Navigation
 
